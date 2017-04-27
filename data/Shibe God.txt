@@ -1,0 +1,6 @@
+
+        Username: Shibe God
+        Created on: Wed May 11 2016 06:45:28 GMT-0400 (Eastern Daylight Time)
+        Id: 179906818917531648
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/179906818917531648/674158cb7c55fa731ce8e6471bda1773.jpg?size=1024

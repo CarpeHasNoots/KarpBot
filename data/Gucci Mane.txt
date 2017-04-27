@@ -1,0 +1,6 @@
+
+        Username: Gucci Mane
+        Created on: Thu Jul 07 2016 22:05:59 GMT-0400 (Eastern Daylight Time)
+        Id: 200794583167139840
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/200794583167139840/fdb1512b6fae82fd80fd8836e523af93.jpg?size=1024

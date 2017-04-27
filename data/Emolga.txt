@@ -1,0 +1,6 @@
+
+        Username: Emolga
+        Created on: Thu Aug 18 2016 19:32:20 GMT-0400 (Eastern Daylight Time)
+        Id: 215976209060855809
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/215976209060855809/802e5bc7e9d4abc8cf24d91b0d21ab92.jpg?size=1024

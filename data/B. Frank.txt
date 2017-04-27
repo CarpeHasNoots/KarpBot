@@ -1,0 +1,6 @@
+
+        Username: B. Frank
+        Created on: Sun Sep 11 2016 18:03:48 GMT-0400 (Eastern Daylight Time)
+        Id: 224651237226708992
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/224651237226708992/0eeb9cf7fdf5bbf23bc791ca3fc5f096.jpg?size=1024

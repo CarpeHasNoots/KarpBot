@@ -1,0 +1,6 @@
+
+        Username: smol loli boi
+        Created on: Wed Sep 28 2016 23:56:01 GMT-0400 (Eastern Daylight Time)
+        Id: 230900468740521984
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/230900468740521984/b474ba1051be90db539c4585d3f9637c.jpg?size=1024

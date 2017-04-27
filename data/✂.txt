@@ -1,0 +1,6 @@
+
+        Username: ✂
+        Created on: Fri Jan 01 2016 20:01:35 GMT-0500 (Eastern Standard Time)
+        Id: 132649460067991552
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/132649460067991552/a_4a3a497d9a9cfc462d610640a14abf97.gif?size=1024

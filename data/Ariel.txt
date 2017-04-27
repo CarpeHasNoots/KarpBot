@@ -1,0 +1,6 @@
+
+        Username: Ariel
+        Created on: Fri Jan 22 2016 20:29:28 GMT-0500 (Eastern Standard Time)
+        Id: 140266621229989889
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/140266621229989889/208811457f68d5fce60dcde4e5ca09e2.jpg?size=1024

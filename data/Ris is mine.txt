@@ -1,0 +1,6 @@
+
+        Username: Ris is mine
+        Created on: Wed Jun 01 2016 19:01:02 GMT-0400 (Eastern Daylight Time)
+        Id: 187702077827317761
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/187702077827317761/abb2805381ae417b60dc39760c370784.jpg?size=1024

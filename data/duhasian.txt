@@ -1,0 +1,6 @@
+
+        Username: duhasian
+        Created on: Sat Mar 19 2016 13:26:06 GMT-0400 (Eastern Daylight Time)
+        Id: 160801087752765440
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/160801087752765440/e16fef3e138e6ce382324789101eaf58.jpg?size=1024

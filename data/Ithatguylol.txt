@@ -1,0 +1,6 @@
+
+        Username: Ithatguylol
+        Created on: Mon Aug 22 2016 16:53:00 GMT-0400 (Eastern Daylight Time)
+        Id: 217385662507253760
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/217385662507253760/a_2e1b508a1f46385db0b77f2d1cb6b7b3.gif?size=1024

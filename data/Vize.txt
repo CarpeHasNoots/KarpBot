@@ -1,0 +1,6 @@
+
+        Username: Vize
+        Created on: Mon Feb 01 2016 23:28:25 GMT-0500 (Eastern Standard Time)
+        Id: 143935535243722752
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/143935535243722752/c284279b893987f289a908d71aa7d88c.jpg?size=1024

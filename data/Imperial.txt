@@ -1,0 +1,6 @@
+
+        Username: Imperial
+        Created on: Wed Jun 15 2016 14:28:37 GMT-0400 (Eastern Daylight Time)
+        Id: 192706950704791553
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/192706950704791553/1f717ed9ab8829bae02ac42f3dfa8e8e.jpg?size=1024

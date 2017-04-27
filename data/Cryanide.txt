@@ -1,0 +1,6 @@
+
+        Username: Cryanide
+        Created on: Sat Apr 16 2016 17:53:02 GMT-0400 (Eastern Daylight Time)
+        Id: 171015121135468545
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/171015121135468545/dbbef2647ba8476d3e5dd08a39d07d7d.jpg?size=1024

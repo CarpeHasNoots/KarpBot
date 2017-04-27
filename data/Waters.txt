@@ -1,0 +1,6 @@
+
+        Username: Waters
+        Created on: Sat Jun 11 2016 23:12:51 GMT-0400 (Eastern Daylight Time)
+        Id: 191389326817492992
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/191389326817492992/215aa1ebd1ca7e97af8ee5de007ba11a.jpg?size=1024

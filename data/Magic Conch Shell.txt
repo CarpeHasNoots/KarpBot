@@ -1,0 +1,6 @@
+
+        Username: Magic Conch Shell
+        Created on: Mon Jul 27 2015 16:03:10 GMT-0400 (Eastern Daylight Time)
+        Id: 75317075337289728
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/75317075337289728/b2ed0a1287639d72b36cb0b584d60f56.jpg?size=1024

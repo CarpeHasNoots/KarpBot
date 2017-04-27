@@ -1,0 +1,6 @@
+
+        Username: Demonic
+        Created on: Sun Dec 20 2015 08:49:49 GMT-0500 (Eastern Standard Time)
+        Id: 128131747270492160
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/128131747270492160/4a8a04b172e3b972038a019dfd85f07a.jpg?size=1024

@@ -1,0 +1,6 @@
+
+        Username: Wisdom
+        Created on: Wed Dec 09 2015 01:39:35 GMT-0500 (Eastern Standard Time)
+        Id: 124037210168229890
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/124037210168229890/c2357bceb0f175e8e6e5320772770aa6.jpg?size=1024

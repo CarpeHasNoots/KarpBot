@@ -1,0 +1,6 @@
+
+        Username: Lieutenant Galle
+        Created on: Sat Sep 17 2016 17:35:15 GMT-0400 (Eastern Daylight Time)
+        Id: 226818379955175424
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/226818379955175424/b00a23ec04df69354fed452427cbd542.jpg?size=1024

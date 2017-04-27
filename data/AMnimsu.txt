@@ -1,0 +1,6 @@
+
+        Username: AMnimsu
+        Created on: Fri Jun 24 2016 17:57:27 GMT-0400 (Eastern Daylight Time)
+        Id: 196020995671326721
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/196020995671326721/7a06fa45f3e09d614679432092d0c300.jpg?size=1024

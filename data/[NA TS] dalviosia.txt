@@ -1,0 +1,6 @@
+
+        Username: [NA TS] dalviosia
+        Created on: Sat Oct 10 2015 00:48:12 GMT-0400 (Eastern Daylight Time)
+        Id: 102265907279073280
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/102265907279073280/c135a3526edb8f7a83ec07d70a095278.jpg?size=1024

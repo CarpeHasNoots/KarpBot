@@ -1,0 +1,6 @@
+
+        Username: Glenn
+        Created on: Sun Jul 03 2016 17:14:50 GMT-0400 (Eastern Daylight Time)
+        Id: 199271762473648128
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/199271762473648128/f9da8d61c1556e0b56458993dd0905ab.jpg?size=1024

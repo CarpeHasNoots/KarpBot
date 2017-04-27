@@ -1,0 +1,6 @@
+
+        Username: durpflip
+        Created on: Sun Jul 10 2016 21:38:25 GMT-0400 (Eastern Daylight Time)
+        Id: 201874810299613184
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/201874810299613184/b6271e2fb16225f8878dc3481c681668.jpg?size=1024

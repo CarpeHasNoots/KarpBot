@@ -1,0 +1,6 @@
+
+        Username: Red Herring
+        Created on: Sat May 07 2016 14:01:44 GMT-0400 (Eastern Daylight Time)
+        Id: 178567061054685185
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/178567061054685185/5b2753ac23d7e44f03fb9f38e3a88750.jpg?size=1024

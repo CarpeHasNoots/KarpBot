@@ -1,0 +1,6 @@
+
+        Username: BnSo
+        Created on: Fri Nov 18 2016 17:28:54 GMT-0500 (Eastern Standard Time)
+        Id: 249299926033498112
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/249299926033498112/0bb310fca99849bc1a2d8e351842a584.jpg?size=1024

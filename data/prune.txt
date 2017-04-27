@@ -1,0 +1,6 @@
+
+        Username: prune
+        Created on: Thu Jun 30 2016 19:29:25 GMT-0400 (Eastern Daylight Time)
+        Id: 198218467344777217
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/198218467344777217/9edcd3fcf9e711162a6b826a6e5151c9.jpg?size=1024

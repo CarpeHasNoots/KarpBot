@@ -1,0 +1,6 @@
+
+        Username: Pseudo
+        Created on: Sun Feb 28 2016 18:47:26 GMT-0500 (Eastern Standard Time)
+        Id: 153649294652473344
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/153649294652473344/32e12b2abd51edfe6d995a946d2e4b39.jpg?size=1024

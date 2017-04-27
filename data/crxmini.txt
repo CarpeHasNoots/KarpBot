@@ -1,0 +1,6 @@
+
+        Username: crxmini
+        Created on: Thu Nov 24 2016 21:34:42 GMT-0500 (Eastern Standard Time)
+        Id: 251536112131112960
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/251536112131112960/94d70b7a0485b569446ff20c2a7e277d.jpg?size=1024

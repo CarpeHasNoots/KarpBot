@@ -1,0 +1,6 @@
+
+        Username: freaker
+        Created on: Sun Jul 03 2016 20:08:36 GMT-0400 (Eastern Daylight Time)
+        Id: 199315492047945729
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/199315492047945729/c6b0243d48e3d0c73bd9c1025896f277.jpg?size=1024

@@ -1,0 +1,6 @@
+
+        Username: Donald Trump
+        Created on: Fri Oct 28 2016 05:40:30 GMT-0400 (Eastern Daylight Time)
+        Id: 241496407335370752
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/241496407335370752/0081ffce1ca25d47856840c50ab16e4f.jpg?size=1024

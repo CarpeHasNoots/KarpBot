@@ -1,0 +1,6 @@
+
+        Username: Mister Mocha
+        Created on: Thu Jan 21 2016 22:56:22 GMT-0500 (Eastern Standard Time)
+        Id: 139941201099882496
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/139941201099882496/43d85ee34bf2ff56ea47f1ad7b280822.jpg?size=1024

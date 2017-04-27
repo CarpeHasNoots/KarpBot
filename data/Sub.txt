@@ -1,0 +1,6 @@
+
+        Username: Sub
+        Created on: Sun May 22 2016 13:49:44 GMT-0400 (Eastern Daylight Time)
+        Id: 183999856677879809
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/183999856677879809/553ff27a5f0bf4d17969fe81932ba6d4.jpg?size=1024

@@ -1,0 +1,6 @@
+
+        Username: Charlie Eggnog
+        Created on: Wed Nov 11 2015 20:57:03 GMT-0500 (Eastern Standard Time)
+        Id: 114181635598974979
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/114181635598974979/34a7c60a67a07a19006698ba383bc7d5.jpg?size=1024

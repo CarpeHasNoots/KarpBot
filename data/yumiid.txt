@@ -1,0 +1,6 @@
+
+        Username: yumiid
+        Created on: Thu Jul 23 2015 18:16:15 GMT-0400 (Eastern Daylight Time)
+        Id: 73901018470940672
+        Bot: false
+        Avatar URL: https://cdn.discordapp.com/avatars/73901018470940672/17a58473b3cbcca44ac9eaed29626a45.jpg?size=1024
