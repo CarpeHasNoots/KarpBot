@@ -1,0 +1,6 @@
+
+      Username: Flux
+      Created on: Sat Dec 12 2015 13:39:26 GMT-0500 (Eastern Standard Time)
+      Id: 125305528992661504
+      Bot: false
+      Avatar URL: https://cdn.discordapp.com/avatars/125305528992661504/b0a9e45d4da636ac85bf63021fb41179.jpg?size=1024

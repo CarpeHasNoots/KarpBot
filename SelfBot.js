@@ -10,8 +10,6 @@ const config = require("./config.json");
 
 const fs = require('fs');
 
-const finder = require('fs-finder');
-
 const sql = require('sqlite');
 
 sql.open('./kills.sqlite');
@@ -23,7 +21,7 @@ function commandIs(str, msg){
 var version = "V0.9.7 [In Dev]";
 
 var ball = ["It is certain", "It is decidedly so", "Without a doubt", "Yes definitely", "As I see it, yes", 
-"Most likely", "Outlook good", "Yes", "Signs point to yes", "Concentrate and ask again", "Don't count on it", 
+"Most likely", "Outlook good", "Yes", "Signs point to yes", "Don't count on it", 
 "My reply is no", "My sources say no", "Outlook not so good", "Very doubtful"];
 
 var amv = ["8IQmUigD04E", "lQh046iFg70", "R_4BdeBOcdw", "p4g2sBbv8_8", "FdPKYug8eyU", "s02ue7vpooU", "5QMDaRSoZMU", "a2GujJZfXpg", "jTP6LUMyYRU"];
@@ -112,7 +110,7 @@ if(message.author === bot.user) {
           .addField('Answer', ballRan)
           .setFooter('Karp Self Bot ' + version);
 
-        message.channel.sendEmbed(qdata);
+        message.edit({embed: qdata});
   		}
   	}
 
@@ -277,7 +275,7 @@ if(message.author === bot.user) {
         const multiRan = new Discord.RichEmbed()
         .setDescription("Found " + checkRan + " linked accounts")
         .setFooter("Karp Self Bot " + version);
-        message.channel.sendEmbed(multiRan);
+        message.edit({embed: multiRan});
       } else {
 
       const multiRan = new Discord.RichEmbed()
@@ -285,7 +283,7 @@ if(message.author === bot.user) {
         .setDescription("Found " + checkRan + " linked accounts")
         .setFooter("Karp Self Bot " + version);
 
-      message.edit({embed: multiRan});
+      message.channel.send({embed: multiRan});
     }
     }
 
@@ -305,7 +303,7 @@ if(message.author === bot.user) {
         .addField("Output ➡️", clean(evaled))
         .setFooter("Karp Self Bot " + version);
 
-      message.channel.sendEmbed(evRich);
+      message.edit({embed: evRich});
     } catch (err) {
       const erRich = new Discord.RichEmbed()
         .setAuthor(message.author.username, message.author.displayAvatarURL)
@@ -314,7 +312,7 @@ if(message.author === bot.user) {
         .addField("Output ➡️", clean(err))
         .setFooter("Karp Self Bot " + version);
 
-        message.channel.sendEmbed(erRich);
+        message.channel.send({embed: erRich});
     }
     }
 
@@ -358,8 +356,8 @@ if(message.author === bot.user) {
     }
 
     sql.get(`SELECT * FROM kills WHERE userId = '${killUser.id}'`).then(row => {
-      if(!row) return message.channel.send(kName + " has never died.");
-      message.channel.send(`${kName} has died ${row.deaths} times`);
+      if(!row) return message.channel.send(kName + " has never died");
+      message.channel.send(`${kName} has died ${row.deaths} time(s)`);
     });
   }
 
@@ -368,7 +366,7 @@ if(message.author === bot.user) {
   }
 
   if(commandIs('updates', message)) {
-    message.channel.send("`The last update was a bunch of useless commands like this one`");
+    message.channel.sendCode('', "The last update was a bunch of useless commands like this one");
   }
 
   if(commandIs('taw', message)) {
@@ -389,7 +387,7 @@ Teamspeak 3 Server
 In-House Tournaments`)
       .setFooter('The Paladins division stands at 50+ members strong.');
 
-      message.channel.sendEmbed(tawEmbed);
+      message.channel.send({embed: tawEmbed});
   }
 
   if(commandIs('why', message)) {
@@ -399,17 +397,21 @@ In-House Tournaments`)
     • Your bot is stupid
     • Make your bot modular
     • Your a dirty weeb
-    • When is that porno coming out`);
+    • When is that porno coming out
+    • Why are your commands useless
+    • How do I become cool like you?
+    • You don't know how to do ____ (If you're not gonna teach me or give me the information to teach myself don't say this)`);
   }
-	/*if(commandIs("kinospam", message)) {
-		while(true) {
-			message.channel.sendMessage("( ͡° ͜ʖ ͡°) Karp is Sexy ( ͡° ͜ʖ ͡°)");
-			if(commandIs("stopspam", message)) {
-				break;
-			}
-		}
-	}
-	*/
+
+  if(commandIs('type', message)) {
+    message.delete();
+    message.channel.startTyping();
+  }
+
+  if(commandIs('stoptype', message)) {
+    message.delete();
+    message.channel.stopTyping();
+  }
 }
 });
 
